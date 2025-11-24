@@ -9,7 +9,9 @@ We’re witnessing an inflection point in software: the rise of intelligent agen
 
 These agents don’t just use tools; they are starting to work together.
 
-![image](images/planes.png)
+![image](/images/planes.png)
+
+![image](/images/batton.png)
 
 The next generation of AI applications won’t look like today’s chatbots and copilots. These won’t be front-end assistants for customer service or document summarization. They’ll be composite systems that chain together actions, services, and tools across departments, clouds, and even organizational boundaries.
 
@@ -25,7 +27,7 @@ Suddenly, guaranteed delivery matters. Message durability matters. Auditability,
 
 Recent evaluations make one thing clear: agents are no longer limited to short, stateless interactions. Systems like **GPT-5.1-Codex-Max** can sustain coherent work for hours. When they approach their context limits, they reorganize their own history to retain essential information and continue operating.
 
-![image](images/graph.png)
+![image](/images/graph.png)
 
 Independent assessments show median task lengths of several hours, with upper bounds well beyond that. Internal stress-tests have recorded uninterrupted runs exceeding 24 hours, during which the model iterates, debugs, and resolves failures autonomously.
 
@@ -37,7 +39,7 @@ Long-running agents require messaging and coordination infrastructure that can g
 
 The bottleneck is no longer model capability. It is the reliability of the systems surrounding it.
 
-![image](images/quotetweet.png)
+![image](/images/quotetweet.png)
 
 ---
 
