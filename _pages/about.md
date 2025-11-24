@@ -14,4 +14,4 @@ Technical Product Manager at **IBM**, shaping the next generation of **mission-c
 
 ### AI Product Management
 
-To me, being an AI PM is about maintaining a rigorous information diet and staying agile. It’s less about abstract curiosity and more about anticipating how advancements will impact the product. My focus is on making informed decisions to mitigate risk and seize opportunities, building at the limit of what is possible.
+Being an AI PM means maintaining a disciplined understanding of how the field is evolving, then pressure-testing those developments against real product constraints. It’s about forming and validating strong hypotheses, spotting unexpected capabilities or failure modes early, and turning that insight into bold but defensible product decisions. The goal isn’t just to avoid risk, it’s to create strategic advantage by building right at the edge of what the technology can reliably deliver.
