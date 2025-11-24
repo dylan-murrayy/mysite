@@ -4,7 +4,7 @@ excerpt: "A personal project exploring AI-driven language learning tools."
 collection: portfolio
 ---
 
-**[El Palabrero](https://github.com/dylan-murrayy/El_Palabrero)**
+**[El Palabrero](https://github.com/dylanjgoode/El_Palabrero)**
 
 Palabrero is a Streamlit app that helps you practice Spanish conversation and tracks your progress with GPT‑powered analytics and vocabulary insights.
 

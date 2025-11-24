@@ -4,7 +4,7 @@ excerpt: "A hands-on demonstration of Synchronous (HTTP) vs Asynchronous (Messag
 collection: portfolio
 ---
 
-**[Sync vs Async Microservices](https://github.com/dylan-murrayy/sync-vs-async)**
+**[Sync vs Async Microservices](https://github.com/dylanjgoode/sync-vs-async)**
 
 "Why is my microservice architecture slower than my monolith?"
 This project is a hands-on demonstration of the two most common communication patterns in microservices: Synchronous (HTTP) and Asynchronous (Message Queues).
